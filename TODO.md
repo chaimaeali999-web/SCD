@@ -1,7 +1,7 @@
 ## Plan de travail – Équipe
 ## Tâches à réaliser
 ## Fichier principal
-•	Créer le fichier README.md
+•	Créer le fichier TODO.md
 ## Développement
 - 	Ahmad : Développer la partie du JavaScript
 - 	Zakaria : Créer le fichier du CSS
