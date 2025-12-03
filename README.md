@@ -1,5 +1,5 @@
 ## Plan de travail – Équipe
-## âches à réaliser
+## Tâches à réaliser
 ## Fichier principal
 •	Créer le fichier TODO.md
 ## Développement
